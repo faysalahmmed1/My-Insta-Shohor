@@ -55,6 +55,7 @@ img {
 }
 
 /* Post */
+
 .post {
   width: 100%;
   display: flex;
@@ -255,4 +256,10 @@ img {
   #posts {
     grid-template-columns: repeat(1, 1fr);
   }
+}
+.quetion-header{
+  text-align: center;
+  color: blue;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
